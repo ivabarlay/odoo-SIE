@@ -10,7 +10,7 @@
 
 ## Eliminar el servidor
 
-- `docker-compose down && docker-compose volume prune`
+- `docker-compose down && docker volume prune`
 
 ## Entrar a Pgadmin
 
