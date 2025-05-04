@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<odoo>
+    <menuitem id="agenda_menu_root" name="Agenda">
+        <menuitem id="agenda_first_level_menu" name="Agenda Casos">
+            <menuitem id="agenda_model_menu_action" action="agenda_casos_model_action"/>
+        </menuitem>
+    </menuitem>
+</odoo>
